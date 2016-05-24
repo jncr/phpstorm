@@ -3,7 +3,6 @@
     <extensionMap>
       <mapping ext="hjs" type="HTML" />
       <mapping ext="md" type="PLAIN_TEXT" />
-      <mapping ext="raml" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
