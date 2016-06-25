@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '/Users/johnbyers/work/uw-jtc-address-lookup/gulpfile.babel.js'" />
-    <option name="defaultScopeName" value="File '/Users/johnbyers/work/uw-jtc-address-lookup/gulpfile.babel.js'" />
-    <option name="SEARCH_SCOPE" value="File '/Users/johnbyers/work/uw-jtc-address-lookup/gulpfile.babel.js'" />
+    <option name="customScope" value="Project 'secretsales'" />
+    <option name="defaultScopeName" value="Project 'secretsales'" />
+    <option name="SEARCH_SCOPE" value="Project 'secretsales'" />
   </component>
 </application>
