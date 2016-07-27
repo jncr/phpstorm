@@ -6,6 +6,7 @@
       <mapping pattern=".jsbeautifyrc" type="PLAIN_TEXT" />
       <mapping pattern="Makefile" type="PLAIN_TEXT" />
       <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
+      <mapping ext="dist" type="PLAIN_TEXT" />
       <mapping ext="raml" type="YAML" />
     </extensionMap>
   </component>
