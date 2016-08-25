@@ -3,9 +3,7 @@
     <option name="customScope" value="Project 'test_php'" />
     <option name="defaultScopeName" value="Project 'test_php'" />
     <option name="localCaseSensitive" value="true" />
-    <option name="regularExpressions" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project 'test_php'" />
   </component>
 </application>
