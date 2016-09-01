@@ -1,7 +1,7 @@
 <application>
   <component name="ScratchFileService">
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch" value="XML" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.html" value="Angular2HTML" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.html" value="TEXT" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.js" value="JavaScript" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.json" value="JSON" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.php" value="PHP" />
@@ -14,6 +14,7 @@
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_2" value="PHP" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_2.xml" value="XML" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_3" value="XML" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_3.xml" value="XML" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_4" value="XML" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_5" value="Twig" />
   </component>
