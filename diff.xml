@@ -31,9 +31,7 @@
         <PlaceSettings />
       </entry>
       <entry key="Merge">
-        <PlaceSettings>
-          <option name="USE_SOFT_WRAPS" value="true" />
-        </PlaceSettings>
+        <PlaceSettings />
       </entry>
       <entry key="TestsFiledAssertions">
         <PlaceSettings />
