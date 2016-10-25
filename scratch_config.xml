@@ -15,9 +15,10 @@
         <option value="xml.xml" />
         <option value="scratch8.xml" />
         <option value="scratch9.json" />
+        <option value="scratch10.txt" />
       </list>
     </option>
-    <option name="lastOpenedScratch" value="scratch9.json" />
+    <option name="lastOpenedScratch" value="scratch10.txt" />
     <option name="needMigration" value="false" />
   </component>
 </application>
