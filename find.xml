@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'clubhouse'" />
-    <option name="defaultScopeName" value="Project 'clubhouse'" />
+    <option name="customScope" value="File '.../web/assets/css/styles.css - [clubhouse]'" />
+    <option name="defaultScopeName" value="File '.../web/assets/css/styles.css - [clubhouse]'" />
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Project 'clubhouse'" />
+    <option name="SEARCH_SCOPE" value="File '.../web/assets/css/styles.css - [clubhouse]'" />
   </component>
 </application>
