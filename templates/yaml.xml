@@ -1,5 +1,5 @@
 <templateSet group="yaml">
-  <template name="sm" value="selector:&#10;  matchLabels:&#10;    " toReformat="false" toShortenFQNames="true">
+  <template name="sm" value="selector:&#10;  matchLabels:&#10;    " description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="OTHER" value="true" />
     </context>
